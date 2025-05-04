@@ -18,6 +18,14 @@
 
 ---
 
+### 👨‍🚀 The Coldrock Squad
+
+| ![@RobertSkokic](https://avatars.githubusercontent.com/u/1234567?s=100) | ![@Killian](https://avatars.githubusercontent.com/u/2345678?s=100) | ![@Mike](https://avatars.githubusercontent.com/u/3456789?s=100) |
+|:--:|:--:|:--:|
+| [@RobertSkokic](https://github.com/RobertSkokic) | [@Killian](https://github.com/...) | [@Mike](https://github.com/...) |
+
+---
+
 ### ⚒️ Tech Stack
 
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
