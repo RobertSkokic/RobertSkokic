@@ -40,6 +40,10 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robert-skokic-484774285/)
 [![Website](https://img.shields.io/badge/-coldrock.games-black?style=flat-square&logo=google-chrome)](https://www.coldrock.games)
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RobertSkokic&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF4A4A&icon_color=FF4A4A" />
+</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertSkokic&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF4A4A" />
