@@ -7,7 +7,7 @@
 
 ### 🎮 About Me
 
-- 🎨 Design Raptor bei [Coldrock.Games](https://coldrock.games)
+- 🎨 Design Raptor bei [coldrock.cames](https://coldrock.games)
 - 💻 2D/3D Art, WebDev (HTML/CSS/JS) & GameDev mit GameMaker
 - 🧠 Bildungs-Nerd – weil Lernen durch Games einfach besser funktioniert
 - ✍️ Co-Autor von [*IT Source Code*](https://www.coldrock.games/www/itsourcecode.php)
