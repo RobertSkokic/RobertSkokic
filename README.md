@@ -44,38 +44,51 @@
 
 ---
 
-### 🎮 My All-Time Favorites
+<h3 align="center">🎮 My All-Time Favorites</h3>
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/favorite-games/Destiny.jpg" width="100" /><br><sub><strong>Destiny</strong></sub>
-    </td>
-    <td align="center">
-      <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/favorite-games/final-fantasy-xiii.jpg" width="100" /><br><sub><strong>Final Fantasy XIII</strong></sub>
-    </td>
-    <td align="center">
-      <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/favorite-games/metaphor-refantazio.jpg" width="100" /><br><sub><strong>Metaphor: ReFantazio</strong></sub>
-    </td>
-    <td align="center">
-      <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/favorite-games/clair-obscur-expedition-33.jpg" width="100" /><br><sub><strong>Clair Obscur: Expedition 33</strong></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/favorite-games/persona-3-reload.jpg" width="100" /><br><sub><strong>Persona 3 Reload</strong></sub>
-    </td>
-    <td align="center">
-      <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/favorite-games/nier-automata.jpg" width="100" /><br><sub><strong>NieR: Automata</strong></sub>
-    </td>
-    <td align="center">
-      <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/favorite-games/pokemon-black-white.jpg" width="100" /><br><sub><strong>Pokémon Black/White</strong></sub>
-    </td>
-    <td align="center">
-      <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/favorite-games/osu.jpg" width="100" /><br><sub><strong>osu!</strong></sub>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  
+  <table>
+    <tr>
+      <td align="center" width="140">
+        <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/favorite-games/Destiny.jpg" width="120" /><br>
+        <b>Destiny</b>
+      </td>
+      <td align="center" width="140">
+        <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/favorite-games/final-fantasy-xiii.jpg" width="120" /><br>
+        <b>Final Fantasy XIII</b>
+      </td>
+      <td align="center" width="140">
+        <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/favorite-games/metaphor-refantazio.jpg" width="120" /><br>
+        <b>Metaphor:<br>ReFantazio</b>
+      </td>
+      <td align="center" width="140">
+        <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/favorite-games/clair-obscur-expedition-33.jpg" width="120" /><br>
+        <b>Clair Obscur:<br>Expedition 33</b>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="140">
+        <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/favorite-games/persona-3-reload.jpg" width="120" /><br>
+        <b>Persona 3 Reload</b>
+      </td>
+      <td align="center" width="140">
+        <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/favorite-games/nier-automata.jpg" width="120" /><br>
+        <b>NieR: Automata</b>
+      </td>
+      <td align="center" width="140">
+        <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/favorite-games/pokemon-black-white.jpg" width="120" /><br>
+        <b>Pokémon<br>Black/White</b>
+      </td>
+      <td align="center" width="140">
+        <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/favorite-games/osu.jpg" width="120" /><br>
+        <b>osu!</b>
+      </td>
+    </tr>
+  </table>
+
+</div>
+
 
 ---
 
