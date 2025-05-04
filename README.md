@@ -92,20 +92,61 @@
 
 ---
 
-### 🕹️ Other Games I Love
+<h3 align="center">🕹️ Other Games I Love</h3>
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/en/6/60/Final_Fantasy_XVI_cover.jpg" width="100" title="Final Fantasy XVI" />
-  <img src="https://upload.wikimedia.org/wikipedia/en/c/cd/Gravity_Rush_cover_art.jpg" width="100" title="Gravity Rush" />
-  <img src="https://upload.wikimedia.org/wikipedia/en/8/84/Call_of_Duty_Black_Ops_II_box_art.png" width="100" title="CoD: Black Ops II" />
-  <img src="https://upload.wikimedia.org/wikipedia/en/4/44/Tom_Clancy%27s_Rainbow_Six_Siege_cover_art.jpg" width="100" title="Rainbow Six Siege" />
-  <img src="https://upload.wikimedia.org/wikipedia/en/b/b3/Titanfall_2.jpg" width="100" title="Titanfall 2" />
-  <img src="https://upload.wikimedia.org/wikipedia/en/5/59/Valorant_logo.svg" width="100" title="Valorant" />
-  <img src="https://upload.wikimedia.org/wikipedia/en/e/e5/Ghostrunner_cover.jpg" width="100" title="Ghostrunner" />
-  <img src="https://upload.wikimedia.org/wikipedia/en/3/36/Infamous_Second_Son_cover.jpg" width="100" title="inFamous: Second Son" />
-  <img src="https://upload.wikimedia.org/wikipedia/en/9/9e/Journey_PS3_cover.png" width="100" title="Journey" />
-  <img src="https://upload.wikimedia.org/wikipedia/en/7/7e/Remember_Me_cover_art.jpg" width="100" title="Remember Me" />
-</p>
+<div align="center">
+  
+  <table>
+    <tr>
+      <td align="center" width="140">
+        <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/favorite-games/final-fantasy-xvi.jpg" width="120" /><br>
+        <b>Final Fantasy XVI</b>
+      </td>
+      <td align="center" width="140">
+        <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/favorite-games/gravity-rush.jpg" width="120" /><br>
+        <b>Gravity Rush</b>
+      </td>
+      <td align="center" width="140">
+        <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/favorite-games/cod-black-ops-2.jpg" width="120" /><br>
+        <b>CoD:<br>Black Ops II</b>
+      </td>
+      <td align="center" width="140">
+        <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/favorite-games/rainbow-six-siege.jpg" width="120" /><br>
+        <b>Rainbow Six Siege</b>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="140">
+        <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/favorite-games/titanfall-2.jpg" width="120" /><br>
+        <b>Titanfall 2</b>
+      </td>
+      <td align="center" width="140">
+        <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/favorite-games/valorant.jpg" width="120" /><br>
+        <b>Valorant</b>
+      </td>
+      <td align="center" width="140">
+        <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/favorite-games/ghostrunner.jpg" width="120" /><br>
+        <b>Ghostrunner</b>
+      </td>
+      <td align="center" width="140">
+        <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/favorite-games/infamous-second-son.jpg" width="120" /><br>
+        <b>inFamous:<br>Second Son</b>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="140">
+        <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/favorite-games/journey.jpg" width="120" /><br>
+        <b>Journey</b>
+      </td>
+      <td align="center" width="140">
+        <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/favorite-games/remember-me.jpg" width="120" /><br>
+        <b>Remember Me</b>
+      </td>
+    </tr>
+  </table>
+
+</div>
+
 
 ---
 
