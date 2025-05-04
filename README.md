@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi, I'm Robert – aka Breezy 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=0&color=FF4A4A&center=true&vCenter=true&width=435&lines=Designer.+Dev.+Dreamer.;Co-Founder+@+coldrock.games;HAVE+FUN!+MAKE+GAMES!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=0&color=FF4A4A&center=true&vCenter=true&width=435&lines=Designer.+Dev.+Dreamer.;Co-Founder+@+coldrock.games;HAVE+FUN!+MAKE+GAMES!" alt="Typing Animation" />
 </p>
 
 ---
@@ -20,9 +20,9 @@
 
 ### 👨‍🚀 The Coldrock Squad
 
-| ![@RobertSkokic](https://avatars.githubusercontent.com/u/1234567?s=100) | ![@Killian](https://avatars.githubusercontent.com/u/2345678?s=100) | ![@Mike](https://avatars.githubusercontent.com/u/3456789?s=100) |
+| ![@RobertSkokic](https://github.com/RobertSkokic.png?size=100) | ![@Killian](https://github.com/kikerikiki.png?size=100) | ![@Mike](https://github.com/Grisgram.png?size=100) |
 |:--:|:--:|:--:|
-| [@RobertSkokic](https://github.com/RobertSkokic) | [@Killian](https://github.com/kikerikiki) | [@Mike](https://github.com/Grisgram) |
+| [@RobertSkokic](https://github.com/RobertSkokic) | [@kikerikiki](https://github.com/kikerikiki) | [@Grisgram](https://github.com/Grisgram) |
 
 ---
 
@@ -38,14 +38,16 @@
 
 ### 🔭 Cool Stuff
 
-- 🦖 [gml-raptor](https://github.com/coldrockgames/gml-raptor) – unser Open-Source GameMaker-Framework
+- 🦖 [gml-raptor](https://github.com/coldrockgames/gml-raptor) – unser Open-Source GameMaker-Framework  
 - 📚 [IT Source Code](https://www.coldrock.games/www/itsourcecode.php) – unser Praxisbuch für IT-Lehrlinge
 
 ---
 
 ### 📫 Let’s connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robert-skokic-484774285/)
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robert-skokic-484774285/)  
 [![Website](https://img.shields.io/badge/-coldrock.games-black?style=flat-square&logo=google-chrome)](https://www.coldrock.games)
 
-<img src="https://komarev.com/ghpvc/?username=RobertSkokic&label=visits&color=FF4A4A&style=flat-square" />
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RobertSkokic&label=visits&color=FF4A4A&style=flat-square" alt="Profile Views" />
+</p>
