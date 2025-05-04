@@ -3,10 +3,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/NOW%20PLAYING-Space_Rocks_Build_1.2-orange?style=for-the-badge&logo=gamepad&logoColor=white" />
+  <img src="https://raw.githubusercontent.com/yourrepo/yourrepo/main/assets/robert-glitch.svg" width="500" />
 </p>
-
-
 
 
 <h1 align="center">Hi, I'm Robert – aka Breezy 👋</h1>
