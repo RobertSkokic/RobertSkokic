@@ -53,7 +53,15 @@
 <img src="https://komarev.com/ghpvc/?username=RobertSkokic&label=visits&color=FF4A4A&style=flat-square" alt="Profile Views" />
 
 
-| [📘 IT Source Code](https://www.coldrock.games/www/itsourcecode.php) | [🦖 gml-raptor](https://github.com/coldrockgames/gml-raptor) | [🎮 coldrock.games](https://www.coldrock.games) |
-|---|---|---|
+### 🎮 My Projects
+
+<p align="center">
+  <a href="https://www.coldrock.games/www/sirfranz.php">
+    <img src="assets/sirfranz.png" width="250" alt="Sir Franz" title="Sir Franz – unser GameJam-Game">
+  </a>
+  <a href="https://www.coldrock.games/#space-rocks">
+    <img src="assets/spacerocks.png" width="250" alt="Space Rocks Tutorial" title="Space Rocks – interaktives GML-Tutorial">
+  </a>
+</p>
 
 
