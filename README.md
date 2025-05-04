@@ -121,10 +121,6 @@
         <b>Titanfall 2</b>
       </td>
       <td align="center" width="140">
-        <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/favorite-games/valorant.jpg" width="120" /><br>
-        <b>Valorant</b>
-      </td>
-      <td align="center" width="140">
         <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/favorite-games/ghostrunner.jpg" width="120" /><br>
         <b>Ghostrunner</b>
       </td>
