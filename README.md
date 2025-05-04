@@ -28,7 +28,6 @@
 
 - 🦖 [gml-raptor](https://github.com/coldrockgames/gml-raptor) – unser Open-Source GameMaker-Framework
 - 📚 [IT Source Code](https://www.coldrock.games/www/itsourcecode.php) – unser Praxisbuch für IT-Lehrlinge
-- 🚀 [Space Rocks Tutorial](https://www.coldrock.games/#space-rocks) – Interaktives GameMaker-Tutorial
 
 ---
 
