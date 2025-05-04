@@ -44,6 +44,37 @@
 
 ---
 
+### 🎮 My All-Time Favorites
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/en/2/2e/Destiny_2_cover_art.jpg" width="120" title="Destiny" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/d/d9/Final_Fantasy_XIII.jpg" width="120" title="Final Fantasy XIII" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/b/b1/Metaphor_ReFantazio_cover.jpg" width="120" title="Metaphor: ReFantazio" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/9/91/Clair_Obscur_Expedition_33_cover.jpg" width="120" title="Clair Obscur: Expedition 33" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/e/e5/Persona_3_Reload_cover.jpg" width="120" title="Persona 3 Reload" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/7/79/NieR_Automata_cover_art.jpg" width="120" title="NieR: Automata" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/f/f7/Pokemon_Black_Box_Artwork.jpg" width="120" title="Pokémon Black/White" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/f/f6/Osu%21_%28video_game%29_logo.png" width="120" title="osu!" />
+</p>
+
+---
+
+### 🕹️ Other Games I Love
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/en/6/60/Final_Fantasy_XVI_cover.jpg" width="100" title="Final Fantasy XVI" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/c/cd/Gravity_Rush_cover_art.jpg" width="100" title="Gravity Rush" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/8/84/Call_of_Duty_Black_Ops_II_box_art.png" width="100" title="CoD: Black Ops II" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/4/44/Tom_Clancy%27s_Rainbow_Six_Siege_cover_art.jpg" width="100" title="Rainbow Six Siege" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/b/b3/Titanfall_2.jpg" width="100" title="Titanfall 2" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/5/59/Valorant_logo.svg" width="100" title="Valorant" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/e/e5/Ghostrunner_cover.jpg" width="100" title="Ghostrunner" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/3/36/Infamous_Second_Son_cover.jpg" width="100" title="inFamous: Second Son" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/9/9e/Journey_PS3_cover.png" width="100" title="Journey" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/7/7e/Remember_Me_cover_art.jpg" width="100" title="Remember Me" />
+</p>
+
+---
 
 ### 📫 Let’s connect
 
