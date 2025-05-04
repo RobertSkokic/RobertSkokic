@@ -46,17 +46,36 @@
 
 ### 🎮 My All-Time Favorites
 
-<p align="center">
-  <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/favorite-games/Destiny.jpg" width="120" title="Destiny" />
-  <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/favorite-games/final-fantasy-xiii.jpg" width="120" title="Final Fantasy XIII" />
-  <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/favorite-games/metaphor-refantazio.jpg" width="120" title="Metaphor: ReFantazio" />
-  <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/favorite-games/clair-obscur-expedition-33.jpg" width="120" title="Clair Obscur: Expedition 33" />
-  <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/favorite-games/persona-3-reload.jpg" width="120" title="Persona 3 Reload" />
-  <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/favorite-games/nier-automata.jpg" width="120" title="NieR: Automata" />
-  <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/favorite-games/pokemon-black-white.jpg" width="120" title="Pokémon Black/White" />
-  <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/favorite-games/osu.jpg" width="120" title="osu!" />
-</p>
-
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/favorite-games/destiny.jpg" width="100" /><br><sub><strong>Destiny</strong></sub>
+    </td>
+    <td align="center">
+      <img src="assets/favorite-games/final-fantasy-xiii.jpg" width="100" /><br><sub><strong>Final Fantasy XIII</strong></sub>
+    </td>
+    <td align="center">
+      <img src="assets/favorite-games/metaphor.jpg" width="100" /><br><sub><strong>Metaphor: ReFantazio</strong></sub>
+    </td>
+    <td align="center">
+      <img src="assets/favorite-games/clair-obscur.jpg" width="100" /><br><sub><strong>Clair Obscur: Expedition 33</strong></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="assets/favorite-games/persona-3.jpg" width="100" /><br><sub><strong>Persona 3 Reload</strong></sub>
+    </td>
+    <td align="center">
+      <img src="assets/favorite-games/nier.jpg" width="100" /><br><sub><strong>NieR: Automata</strong></sub>
+    </td>
+    <td align="center">
+      <img src="assets/favorite-games/pokemon.jpg" width="100" /><br><sub><strong>Pokémon Black/White</strong></sub>
+    </td>
+    <td align="center">
+      <img src="assets/favorite-games/osu.png" width="100" /><br><sub><strong>osu!</strong></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
