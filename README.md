@@ -2,6 +2,11 @@
   <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/banner.png" alt="Coldrock Banner" width="100%" />
 </p>
 
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=1000&color=FF0000&center=true&vCenter=true&repeat=false&width=600&lines=👾+WELCOME+TO+COLDROCK.GAMES+👾" />
+</h2>
+
+
 
 <h1 align="center">Hi, I'm Robert – aka Breezy 👋</h1>
 <p align="center">
