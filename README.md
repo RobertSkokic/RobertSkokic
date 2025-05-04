@@ -47,15 +47,16 @@
 ### 🎮 My All-Time Favorites
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/en/2/2e/Destiny_2_cover_art.jpg" width="120" title="Destiny" />
-  <img src="https://upload.wikimedia.org/wikipedia/en/d/d9/Final_Fantasy_XIII.jpg" width="120" title="Final Fantasy XIII" />
-  <img src="https://upload.wikimedia.org/wikipedia/en/b/b1/Metaphor_ReFantazio_cover.jpg" width="120" title="Metaphor: ReFantazio" />
-  <img src="https://upload.wikimedia.org/wikipedia/en/9/91/Clair_Obscur_Expedition_33_cover.jpg" width="120" title="Clair Obscur: Expedition 33" />
-  <img src="https://upload.wikimedia.org/wikipedia/en/e/e5/Persona_3_Reload_cover.jpg" width="120" title="Persona 3 Reload" />
-  <img src="https://upload.wikimedia.org/wikipedia/en/7/79/NieR_Automata_cover_art.jpg" width="120" title="NieR: Automata" />
-  <img src="https://upload.wikimedia.org/wikipedia/en/f/f7/Pokemon_Black_Box_Artwork.jpg" width="120" title="Pokémon Black/White" />
-  <img src="https://upload.wikimedia.org/wikipedia/en/f/f6/Osu%21_%28video_game%29_logo.png" width="120" title="osu!" />
+  <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/favorite-games/destiny2.jpg" width="120" title="Destiny 2" />
+  <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/favorite-games/final-fantasy-xiii.jpg" width="120" title="Final Fantasy XIII" />
+  <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/favorite-games/metaphor-refantazio.jpg" width="120" title="Metaphor: ReFantazio" />
+  <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/favorite-games/clair-obscur-expedition-33.jpg" width="120" title="Clair Obscur: Expedition 33" />
+  <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/favorite-games/persona-3-reload.jpg" width="120" title="Persona 3 Reload" />
+  <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/favorite-games/nier-automata.jpg" width="120" title="NieR: Automata" />
+  <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/favorite-games/pokemon-black-white.jpg" width="120" title="Pokémon Black/White" />
+  <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/favorite-games/osu.jpg" width="120" title="osu!" />
 </p>
+
 
 ---
 
