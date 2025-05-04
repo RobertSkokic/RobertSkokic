@@ -2,15 +2,6 @@
   <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/banner.png" alt="Coldrock Banner" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/RobertSkokic/RobertSkokic/raw/output/github-contribution-grid-snake.svg" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RobertSkokic&theme=radical&no-frame=true&row=1&column=6" />
-</p>
-
-
-
 <h1 align="center">Hi, I'm Robert – aka Breezy 👋</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=0&color=FF4A4A&center=true&vCenter=true&width=435&lines=Designer.+Dev.+Dreamer.;Co-Founder+@+coldrock.games;HAVE+FUN!+MAKE+GAMES!" alt="Typing Animation" />
