@@ -20,9 +20,10 @@
 
 ### 👨‍🚀 The Coldrock Squad
 
-| ![@RobertSkokic](https://github.com/RobertSkokic.png?size=100) | ![@Killian](https://github.com/kikerikiki.png?size=100) | ![@Mike](https://github.com/Grisgram.png?size=100) |
-|:--:|:--:|:--:|
-| [@RobertSkokic](https://github.com/RobertSkokic) | [@kikerikiki](https://github.com/kikerikiki) | [@Grisgram](https://github.com/Grisgram) |
+| ![@Breezy](https://github.com/RobertSkokic.png?size=100) | ![@Kiki](https://github.com/kikerikiki.png?size=100) | ![@Grisgram](https://github.com/Grisgram.png?size=100) | ![@Hawk](https://github.com/MaxLab2002.png?size=100) |
+|:--:|:--:|:--:|:--:|
+| [@RobertSkokic](https://github.com/RobertSkokic) | [@kikerikiki](https://github.com/kikerikiki) | [@Grisgram](https://github.com/Grisgram) | [@MaxLab2002](https://github.com/MaxLab2002) |
+
 
 ---
 
