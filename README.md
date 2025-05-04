@@ -3,16 +3,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RobertSkokic&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF4A4A&icon_color=FF4A4A" />
+  <img src="https://img.shields.io/badge/NOW%20PLAYING-Space_Rocks_Build_1.2-orange?style=for-the-badge&logo=gamepad&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertSkokic&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF4A4A" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=RobertSkokic&theme=dark&background=0D1117&border=FF4A4A&ring=FF4A4A&currStreakLabel=FF4A4A&fire=FF4A4A" />
-</p>
 
 
 
