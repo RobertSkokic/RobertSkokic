@@ -2,9 +2,9 @@
   <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/banner.png" alt="Coldrock Banner" width="100%" />
 </p>
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=1000&color=FF0000&center=true&vCenter=true&repeat=false&width=600&lines=👾+WELCOME+TO+COLDROCK.GAMES+👾" />
-</h2>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=RobertSkokic&theme=dark&background=0D1117&border=FF4A4A&ring=FF4A4A&currStreakLabel=FF4A4A&fire=FF4A4A" />
+</p>
 
 
 
