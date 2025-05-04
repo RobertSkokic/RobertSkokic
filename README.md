@@ -39,3 +39,20 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robert-skokic-484774285/)
 [![Website](https://img.shields.io/badge/-coldrock.games-black?style=flat-square&logo=google-chrome)](https://www.coldrock.games)
 
+<details>
+<summary>🦖 Click to unleash the Raptor</summary>
+
+markdown
+Kopieren
+Bearbeiten
+    .-=-==--==--.
+ ..-=="  ,'o`)      `.
+,' " \ : ( ....._
+\ . -._ .--..--.
+-._ -. -._ .._ . -._ -.__ --._ -._ -._-. -._-.___
+coldrock.games
+
+bash
+Kopieren
+Bearbeiten
+</details>
