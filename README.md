@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi, I'm Robert – aka Breezy 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=300&color=FF4A4A&center=true&vCenter=true&width=435&lines=Designer.+Dev.+Dreamer.;GameDev+%26+3D+Artist;Co-Founder+@+Coldrock.Games;HAVE+FUN!+MAKE+GAMES!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=50&color=FF4A4A&center=true&vCenter=true&width=435&lines=Designer.+Dev.+Dreamer.;Co-Founder+@+Coldrock.Games;HAVE+FUN!+MAKE+GAMES!" />
 </p>
 
 ---
