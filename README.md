@@ -2,20 +2,28 @@
   <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/banner.png" alt="Coldrock Banner" width="100%" />
 </p>
 
-
 <h1 align="center">Hi, I'm Robert – aka Breezy 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF6AC1&center=true&vCenter=true&width=435&lines=Designer.+Dev.+Dreamer.;GameDev+%26+3D+Artist;Co-Founder+@+Coldrock.Games;HAVE+FUN!+MAKE+GAMES!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=0&color=FF4A4A&center=true&vCenter=true&width=435&lines=Designer.+Dev.+Dreamer.;Co-Founder+@+coldrock.games;HAVE+FUN!+MAKE+GAMES!" alt="Typing Animation" />
 </p>
 
 ---
 
 ### 🎮 About Me
 
-- 🎨 Design Raptor bei [coldrock.cames](https://coldrock.games)
+- 🎨 Design Raptor bei [coldrock.games](https://coldrock.games)
 - 💻 2D/3D Art, WebDev (HTML/CSS/JS) & GameDev mit GameMaker
 - 🧠 Bildungs-Nerd – weil Lernen durch Games einfach besser funktioniert
 - ✍️ Co-Autor von [*IT Source Code*](https://www.coldrock.games/www/itsourcecode.php)
+
+---
+
+### 👨‍🚀 The Coldrock Squad
+
+| ![@Breezy](https://github.com/RobertSkokic.png?size=100) | ![@Kiki](https://github.com/kikerikiki.png?size=100) | ![@Grisgram](https://github.com/Grisgram.png?size=100) | ![@Hawk](https://github.com/MaxLab2002.png?size=100) |
+|:--:|:--:|:--:|:--:|
+| [@Breezy](https://github.com/RobertSkokic) | [@Kiki](https://github.com/kikerikiki) | [@Grisgram](https://github.com/Grisgram) | [@Hawk](https://github.com/MaxLab2002) |
+
 
 ---
 
@@ -31,11 +39,16 @@
 
 ### 🔭 Cool Stuff
 
-- 🦖 [gml-raptor](https://github.com/coldrockgames/gml-raptor) – unser Open-Source GameMaker-Framework
+- 🦖 [gml-raptor](https://github.com/coldrockgames/gml-raptor) – unser Open-Source GameMaker-Framework  
 - 📚 [IT Source Code](https://www.coldrock.games/www/itsourcecode.php) – unser Praxisbuch für IT-Lehrlinge
 
 ---
 
 ### 📫 Let’s connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robert-skokic-484774285/)
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robert-skokic-484774285/)  
 [![Website](https://img.shields.io/badge/-coldrock.games-black?style=flat-square&logo=google-chrome)](https://www.coldrock.games)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RobertSkokic&label=visits&color=FF4A4A&style=flat-square" alt="Profile Views" />
+</p>
