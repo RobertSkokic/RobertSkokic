@@ -49,6 +49,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robert-skokic-484774285/)  
 [![Website](https://img.shields.io/badge/-coldrock.games-black?style=flat-square&logo=google-chrome)](https://www.coldrock.games)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RobertSkokic&label=visits&color=FF4A4A&style=flat-square" alt="Profile Views" />
-</p>
+
+<img src="https://komarev.com/ghpvc/?username=RobertSkokic&label=visits&color=FF4A4A&style=flat-square" alt="Profile Views" />
+
