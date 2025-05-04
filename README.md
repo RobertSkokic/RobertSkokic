@@ -44,9 +44,18 @@
 
 ---
 
-![Hollow Knight](https://img.shields.io/badge/-Hollow_Knight-000000?style=for-the-badge&logo=steam&logoColor=white)
-![Slay the Spire](https://img.shields.io/badge/-Slay_the_Spire-red?style=for-the-badge&logo=nintendo-switch&logoColor=white)
-![Outer Wilds](https://img.shields.io/badge/-Outer_Wilds-orange?style=for-the-badge&logo=windows&logoColor=white)
+---
+
+### 🎮 My Favorite Games
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&color=FF4A4A&center=true&vCenter=true&width=435&lines=Hollow+Knight;Slay+the+Spire;Outer+Wilds;Celeste;Portal+2" />
+</p>
+
+| ![](assets/hollow.jpg) <br>**Hollow Knight** | ![](assets/slay.jpg) <br>**Slay the Spire** | ![](assets/outer.jpg) <br>**Outer Wilds** |
+|:--:|:--:|:--:|
+| Metroidvania / PC | Deckbuilder / Steam | Exploration / PC |
+
 
 
 
