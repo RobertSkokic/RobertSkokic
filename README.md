@@ -47,7 +47,7 @@
 ### 🎮 My All-Time Favorites
 
 <p align="center">
-  <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/favorite-games/destiny.jpg" width="120" title="Destiny" />
+  <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/favorite-games/Destiny.jpg" width="120" title="Destiny" />
   <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/favorite-games/final-fantasy-xiii.jpg" width="120" title="Final Fantasy XIII" />
   <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/favorite-games/metaphor-refantazio.jpg" width="120" title="Metaphor: ReFantazio" />
   <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/favorite-games/clair-obscur-expedition-33.jpg" width="120" title="Clair Obscur: Expedition 33" />
