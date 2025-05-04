@@ -44,6 +44,13 @@
 
 ---
 
+![Hollow Knight](https://img.shields.io/badge/-Hollow_Knight-000000?style=for-the-badge&logo=steam&logoColor=white)
+![Slay the Spire](https://img.shields.io/badge/-Slay_the_Spire-red?style=for-the-badge&logo=nintendo-switch&logoColor=white)
+![Outer Wilds](https://img.shields.io/badge/-Outer_Wilds-orange?style=for-the-badge&logo=windows&logoColor=white)
+
+
+
+
 ### 📫 Let’s connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robert-skokic-484774285/)  
