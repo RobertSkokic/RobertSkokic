@@ -128,15 +128,9 @@
         <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/favorite-games/infamous-second-son.jpg" width="120" /><br>
         <b>inFamous:<br>Second Son</b>
       </td>
-    </tr>
-    <tr>
-      <td align="center" width="140">
+       <td align="center" width="140">
         <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/favorite-games/journey.jpg" width="120" /><br>
         <b>Journey</b>
-      </td>
-      <td align="center" width="140">
-        <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/favorite-games/remember-me.jpg" width="120" /><br>
-        <b>Remember Me</b>
       </td>
     </tr>
   </table>
