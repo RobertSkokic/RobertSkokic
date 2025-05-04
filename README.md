@@ -2,6 +2,11 @@
   <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/banner.png" alt="Coldrock Banner" width="100%" />
 </p>
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=0&color=FF4A4A&center=true&vCenter=true&width=435&lines=👋+Welcome+to+my+GitHub!;I'm+Robert+aka+Breezy" />
+</h1>
+
+
 <h1 align="center">Hi, I'm Robert – aka Breezy 👋</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=0&color=FF4A4A&center=true&vCenter=true&width=435&lines=Designer.+Dev.+Dreamer.;Co-Founder+@+coldrock.games;HAVE+FUN!+MAKE+GAMES!" alt="Typing Animation" />
@@ -51,17 +56,5 @@
 
 
 <img src="https://komarev.com/ghpvc/?username=RobertSkokic&label=visits&color=FF4A4A&style=flat-square" alt="Profile Views" />
-
-
-### 🎮 My Projects
-
-<p align="center">
-  <a href="https://www.coldrock.games/www/sirfranz.php">
-    <img src="assets/sirfranz.png" width="250" alt="Sir Franz" title="Sir Franz – unser GameJam-Game">
-  </a>
-  <a href="https://www.coldrock.games/#space-rocks">
-    <img src="assets/spacerocks.png" width="250" alt="Space Rocks Tutorial" title="Space Rocks – interaktives GML-Tutorial">
-  </a>
-</p>
 
 
