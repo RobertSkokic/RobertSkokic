@@ -39,12 +39,5 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robert-skokic-484774285/)
 [![Website](https://img.shields.io/badge/-coldrock.games-black?style=flat-square&logo=google-chrome)](https://www.coldrock.games)
 
-### 🧠 Skill Level
-
-| Skill              | Level                |
-|--------------------|----------------------|
-| GameMaker (GML)    | ██████████░░ 90%     |
-| 2D/3D Design       | █████████░░░ 80%     |
-| Web (HTML/CSS/JS)  | ████████░░░░ 75%     |
-| Raptor Framework   | 🦖🦖🦖🦖🦖               |
+<img src="https://komarev.com/ghpvc/?username=RobertSkokic&label=visits&color=FF4A4A&style=flat-square" />
 
