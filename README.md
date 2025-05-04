@@ -49,7 +49,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/favorite-games/destiny2.jpg" width="100" /><br><sub><strong>Destiny 2</strong></sub>
+      <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/favorite-games/Destiny.jpg" width="100" /><br><sub><strong>Destiny</strong></sub>
     </td>
     <td align="center">
       <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/favorite-games/final-fantasy-xiii.jpg" width="100" /><br><sub><strong>Final Fantasy XIII</strong></sub>
