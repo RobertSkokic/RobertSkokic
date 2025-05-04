@@ -2,11 +2,6 @@
   <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/banner.png" alt="Coldrock Banner" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yourrepo/yourrepo/main/assets/robert-glitch.svg" width="500" />
-</p>
-
-
 <h1 align="center">Hi, I'm Robert – aka Breezy 👋</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=0&color=FF4A4A&center=true&vCenter=true&width=435&lines=Designer.+Dev.+Dreamer.;Co-Founder+@+coldrock.games;HAVE+FUN!+MAKE+GAMES!" />
