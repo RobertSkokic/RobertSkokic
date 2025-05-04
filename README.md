@@ -52,19 +52,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=RobertSkokic&label=visits&color=FF4A4A&style=flat-square" alt="Profile Views" />
 
-<p align="center">
-  <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/devcard.svg" />
-</p>
 
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</p>
-
-
-<p align="center">
-  <img src="https://github.com/rodrigorgs/github-activity-3d/raw/main/preview.gif" width="700" />
-</p>
 
 
 
